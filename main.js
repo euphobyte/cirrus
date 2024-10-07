@@ -1,1 +1,1 @@
-alert(location.pathname.substring(location.pathname.lastIndexOf("/") + 1));
+alert("Hello");
