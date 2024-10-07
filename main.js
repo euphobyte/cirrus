@@ -1,1 +1,3 @@
-alert("Hello");
+window.onload = function init(){
+  alert("Hello");
+};
