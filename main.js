@@ -1,3 +1,3 @@
 window.onload = function init(){
-  alert("Hello");
+  alert(location.pathname.substring(location.pathname.lastIndexOf("/") + 1));
 };
